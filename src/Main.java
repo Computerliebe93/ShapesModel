@@ -21,7 +21,7 @@ public class Main {
         a2.Circumference();
 
         System.out.println();
-        System.out.println("Circle:");;
+        System.out.println("Circle:");
         a3.Center();
         a3.Area();
         a3.Circumference();
